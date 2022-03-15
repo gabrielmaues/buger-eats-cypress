@@ -1,0 +1,51 @@
+{
+    "signup":{
+        "name": "Maués",
+        "cpf": "92815726345",
+        "email": "maues@hotmail.com",
+        "whatsapp": "92999999999",
+        "address" : {
+            "postalcode": "69074240",
+            "street": "Rua Coari",
+            "number": "2163",
+            "details": "Vila Militar Ajuricaba",
+            "district":"São Lázaro", 
+            "city_state": "Manaus/AM"
+    },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Joao",
+        "cpf": "928157aa345",
+        "email": "gabriel@hotmail.com",
+        "whatsapp": "92888888888",
+        "address" : {
+            "postalcode": "69074240",
+            "street": "Rua Coari",
+            "number": "2163",
+            "details": "Vila Militar Ajuricaba",
+            "district":"São Lázaro", 
+            "city_state": "Manaus/AM"
+    },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+},
+
+"email_inv":{
+    "name": "Joao",
+    "cpf": "92815755345",
+    "email": "gabriel.com.br",
+    "whatsapp": "92888888888",
+    "address" : {
+        "postalcode": "69074240",
+        "street": "Rua Coari",
+        "number": "2163",
+        "details": "Vila Militar Ajuricaba",
+        "district":"São Lázaro", 
+        "city_state": "Manaus/AM"
+},
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+}
+}
